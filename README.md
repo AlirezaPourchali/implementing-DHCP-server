@@ -8,6 +8,9 @@ apt install isc-dhcp-server
 ![image](https://user-images.githubusercontent.com/88885103/189475762-69252235-ee0a-406e-b93f-e47bf06b9860.png)    
 
 سپس 
+```
+nano /etc/dhcp/dhcpd.conf
+```
 > #authoritative;    
 to    
 > authoritative;
